@@ -31,5 +31,3 @@ ecshop和百家cms，不是mvc架构方式的，访问他们的文件，通过�
 哈哈哈，从零几年开始的6.x版本在前几天终于换了7.0了，冰蛙大神和v社这个做的精细程度简直了！
 （岂能是小学生游戏能比的）（当然入手程度也是没法和小学生游戏比）  
 
-
-![dota2齐天大圣](http://imglf1.nosdn.127.net/img/Wk9RdWc3UUVnQWFKODdZdkc4MlpNRHBMaXovOVRFempNM3loblhDWFM0dCtKMkY3SzFkdFB3PT0.jpg?imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg)
