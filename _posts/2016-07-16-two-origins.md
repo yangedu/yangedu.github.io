@@ -29,7 +29,3 @@ description: 多版本库并行，实现一个代码多个地方并存，保证�
 2. 如果你的开源中国和github帐号一致，提交时用户名啥的会比较省心，因为这样提交上去一般不会出现名字错误。如果不同的话，提交者名字就只能以一个库为准了。
 3. 创建远程库错误时，可以用`git remote rm origin-os`删除就行，然后重新创建  
 
-### 选张图床上的摄影结束吧
-现在打算使用网易的lofter.com来做图床，不知道后期会有啥潜在的问题，阿门~  
-![自来也，纲手姬，大蛇丸](http://imglf0.nosdn.127.net/img/Wk9RdWc3UUVnQWI3ZVkrSnd3TW5zZFpLMWkrYlpEK2RGR2gzbmVPbE1JRUhJKzBZS2ZkMDd3PT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)  
-![dota2](http://imglf2.nosdn.127.net/img/VFNNRXpSdUdncmVqYitaVkxsRU9QaDFiM1lBTFY4RDhOc2k5T3NkMENTNURqSmhBYmQ4NElRPT0.gif)

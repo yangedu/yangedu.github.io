@@ -57,6 +57,5 @@ composer.phar create-project --prefer-dist yiisoft/yii2-app-advanced advanced
 到此，基本是把坑踩完，愉快的coding了~  
 [ 刚学的框架，名称还没搞清楚来，还愉悦的coding,说这话时脸皮真够厚的来... ]  
 
-### 曾经的热血青春  
-<center><embed src="http://player.video.qiyi.com/b9ceb85b97b4423468dbf1debc752152/0/0/w_19rtxq9qbp.swf-albumId=7740824809-tvId=7740824809-isPurchase=0-cnId=5" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></center>
+
 
