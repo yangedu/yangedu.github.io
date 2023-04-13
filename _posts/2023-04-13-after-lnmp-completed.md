@@ -1,11 +1,11 @@
 ---
-layout: post
 title:  "安装完服务器环境lnmp之后"
 date:   2023-04-13 10:10:51 +0800
 categories: 服务器
 tags: 总结
-author: 葩木乐
+author: PoplarY
 description: 服务器环境配置安装lnmp之后
+pin:false
 ---
 
 ### 安装lnmp
