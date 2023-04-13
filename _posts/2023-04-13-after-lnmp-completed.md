@@ -4,8 +4,7 @@ date:   2023-04-13 10:10:51 +0800
 categories: 服务器
 tags: 总结
 author: PoplarY
-description: 服务器环境配置安装lnmp之后
-pin:false
+description: 服务器环境配置安装lnmp之后的操作
 ---
 
 ### 安装lnmp
